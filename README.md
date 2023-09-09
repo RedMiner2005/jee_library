@@ -12,3 +12,8 @@ The app uses a basic implementation of Google Analytics, because I had to know w
 
 ## How do you run this?
 You could import this project into Android Studio. Just make sure the the Flutter and Dart plugins are enabled. Then you may connect your Android device through a USB cable (or enable wireless debugging), and run the project. Alternatively, you could use an Android emulator, or use VS Code instead of Android Studio.
+
+## Screenshots
+For more screenshots, just check the screenshots directory.
+
+![The app opening up with the splash screen and the home screen animation](/screenshots/open.gif?raw=true "The app opening up with the splash screen and the home screen animation")  ![Scanning a book's barcode](/screenshots/scanAttempt.gif?raw=true "Scanning a book's barcode")
